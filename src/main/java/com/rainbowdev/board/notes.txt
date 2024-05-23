@@ -1,0 +1,36 @@
+
+What is the capital of India?"
+ a)New Delhi
+ b)Chandigarh
+ c)Mumbai
+ d)Delhi
+
+What is the capital of USA?
+a)New York
+b)LA
+c)Boston
+d)Washington
+
+What is the capital of Japan?
+a)Hiroshima
+b)Nagoya
+c)Tokyo
+d)Nagasaki
+
+What is the capital of UK?
+a)New Castle
+b)London
+c)Bristol
+d)York
+
+What is the capital of Canada?
+a)Vancouver
+b)Toronto
+c)Edmonton
+d)Ottawa
+
+What is the capital of South Korea?
+a)Pyongyang
+b)Seoul
+c)Pusan
+d)Inchon
